@@ -17,6 +17,8 @@ summary {
     user-select: none;
 
     cursor: default;
+
+    list-style: none;
 }
 
 summary::marker {
