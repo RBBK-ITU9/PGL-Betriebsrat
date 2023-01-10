@@ -2,10 +2,13 @@ body{
     background-image: url(main.jpg);
     font-size: 20px;
     font-family: system-ui;
+    background-size: cover;
+    color: whitesmoke;
+
 }
 
 details {
-    border: 1px solid #aaa;
+    border: 1px solid whitesmoke;
     border-radius: 10px;
     padding: 0.5em 0.5em 0;
 }
