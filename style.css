@@ -8,9 +8,11 @@ body{
 }
 
 details {
+    background-color: whitesmoke;
     border: 1px solid whitesmoke;
     border-radius: 10px;
     padding: 0.5em 0.5em 0;
+    width: 600px;
 }
 
 summary {
@@ -43,8 +45,10 @@ details[open] {
 }
 
 details[open] summary {
+    background-color: whitesmoke;
     border-bottom: 1px solid whitesmoke;
     margin-bottom: 0.5em;
+    width: 600px;
 }
 
 
