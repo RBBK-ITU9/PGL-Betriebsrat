@@ -30,6 +30,8 @@ summary {
     cursor: default;
 
     list-style: none;
+    background-color: whitesmoke;
+    border-radius: 10px;
 }
 
 summary::marker {
@@ -48,6 +50,7 @@ details[open] summary {
     border-bottom: 1px solid whitesmoke;
     margin-bottom: 0.5em;
     width: 600px;
+    background-color: whitesmoke;
 }
 
 h2 {
