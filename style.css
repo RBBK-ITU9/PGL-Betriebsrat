@@ -4,15 +4,16 @@ body{
     font-size: 20px;
     font-family: system-ui;
     background-size: cover;
-    color: black;
+    color: whitesmoke;
 }
 
 details {
-    border: 1px solid whitesmoke;
+    border: 1px solid black;
     border-radius: 10px;
     padding: 0.5em 0.5em 0;
     width: 600px;
     margin-top: 10px;
+    background-color: whitesmoke;
 }
 
 summary {
@@ -32,6 +33,7 @@ summary {
     list-style: none;
     background-color: whitesmoke;
     border-radius: 10px;
+    color: black;
 }
 
 summary::marker {
@@ -51,6 +53,7 @@ details[open] summary {
     margin-bottom: 0.5em;
     width: 600px;
     background-color: whitesmoke;
+    color: black;
 }
 
 h2 {
