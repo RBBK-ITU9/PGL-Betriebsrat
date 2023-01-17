@@ -36,17 +36,14 @@ summary {
     color: black;
 }
 
-summary::marker {
-    display: none;
-}
 
-summary::-webkit-details-marker {
-    display: none;
-}
 
 details[open] {
     padding: 0.5em;
+    background-color: whitesmoke;
+    color: black;
 }
+
 
 details[open] summary {
     border-bottom: 1px solid whitesmoke;
