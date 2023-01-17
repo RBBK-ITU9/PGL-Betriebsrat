@@ -59,6 +59,8 @@ h2 {
 
 .title{
     text-decoration: underline;
+    display: flex;
+    justify-content: center;
 }
 
 .des{
