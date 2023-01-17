@@ -2,7 +2,7 @@ body{
     font-size: 15px;
 }
 
-.link{
+a{
     display: flex;
     justify-content: right;
     color: whitesmoke;
