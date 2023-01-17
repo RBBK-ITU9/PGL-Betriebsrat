@@ -1,9 +1,3 @@
 body{
     font-size: 15px;
 }
-
-a{
-    display: flex;
-    justify-content: right;
-    color: whitesmoke;
-}
