@@ -67,7 +67,7 @@ h2 {
 
 .des {
     margin: auto;
-    padding: 0 calc((100% - 1000px) / 2);
+    padding: 0 max(min(calc((100% - 1000px) / 2), 100px), 5px);
     width: max(20%, 1000px);
 }
 
