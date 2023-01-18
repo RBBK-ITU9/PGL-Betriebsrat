@@ -72,3 +72,10 @@ h2 {
     padding: 0 calc((100% - 900px) / 2);
     width: max(20%, 1000px);
 }
+
+@media (max-width: 1000px) {
+    .des {
+        width: calc(100% - 10px);
+        padding: 0px 5px;
+    }
+}
