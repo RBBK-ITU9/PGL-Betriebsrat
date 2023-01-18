@@ -57,12 +57,17 @@ h2 {
     margin-top: 1em;
 }
 
-.title{
+.title {
     text-decoration: underline;
     display: flex;
     justify-content: center;
 }
 
-.des{
+.body {
+    position: relative;
     margin-left: 3%;
+}
+
+.des {
+    margin: auto;
 }
