@@ -65,9 +65,10 @@ h2 {
 
 .body {
     position: relative;
-    margin-left: 3%;
 }
 
 .des {
     margin: auto;
+    padding: 0 calc((100% - 900px) / 2);
+    width: max(20%, 1000px);
 }
