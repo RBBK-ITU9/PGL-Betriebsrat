@@ -55,6 +55,23 @@ h2 {
     margin-top: 1em;
 }
 
+table {
+    border: 1px solid black;
+}
+th,td {
+    border: 1px solid black;
+    vertical-align: top;
+}
+td {
+    padding: 5px;
+}
+td > p {
+    margin-top: 0px;
+}
+td > ul {
+    margin-top: 0px;
+}
+
 .title {
     text-decoration: underline;
     display: flex;
