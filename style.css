@@ -57,7 +57,7 @@ h2 {
 
 table {
     border: 1px solid black;
-    size: 100%;
+    width: 100%;
 }
 th,td {
     border: 1px solid black;
